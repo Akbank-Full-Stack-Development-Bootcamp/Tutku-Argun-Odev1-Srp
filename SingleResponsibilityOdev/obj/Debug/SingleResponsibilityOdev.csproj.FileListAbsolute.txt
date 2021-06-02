@@ -1,0 +1,11 @@
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\SingleResponsibilityOdev\SingleResponsibilityOdev\bin\Debug\SingleResponsibilityOdev.exe.config
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\SingleResponsibilityOdev\SingleResponsibilityOdev\bin\Debug\SingleResponsibilityOdev.exe
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\SingleResponsibilityOdev\SingleResponsibilityOdev\bin\Debug\SingleResponsibilityOdev.pdb
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\SingleResponsibilityOdev\SingleResponsibilityOdev\obj\Debug\SingleResponsibilityOdev.csproj.AssemblyReference.cache
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\SingleResponsibilityOdev\SingleResponsibilityOdev\obj\Debug\SingleResponsibilityOdev.Form1.resources
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\SingleResponsibilityOdev\SingleResponsibilityOdev\obj\Debug\SingleResponsibilityOdev.FormNotlar.resources
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\SingleResponsibilityOdev\SingleResponsibilityOdev\obj\Debug\SingleResponsibilityOdev.Properties.Resources.resources
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\SingleResponsibilityOdev\SingleResponsibilityOdev\obj\Debug\SingleResponsibilityOdev.csproj.GenerateResource.cache
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\SingleResponsibilityOdev\SingleResponsibilityOdev\obj\Debug\SingleResponsibilityOdev.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\SingleResponsibilityOdev\SingleResponsibilityOdev\obj\Debug\SingleResponsibilityOdev.exe
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\SingleResponsibilityOdev\SingleResponsibilityOdev\obj\Debug\SingleResponsibilityOdev.pdb
